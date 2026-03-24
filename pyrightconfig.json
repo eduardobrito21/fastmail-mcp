@@ -1,0 +1,20 @@
+{
+  "deprecateTypingAliases": true,
+  "include": ["fastmail_mcp"],
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "recommended",
+  "useLibraryCodeForTypes": true,
+  "strictDictionaryInference": true,
+  "strictGenericNarrowing": true,
+  "strictListInference": true,
+  "strictParameterNoneValue": true,
+  "strictSetInference": true,
+  "reportUnusedCallResult": false,
+  "reportUnusedFunction": false,
+  "reportUnannotatedClassAttribute": false,
+  "reportAny": false,
+  "reportExplicitAny": false,
+  "reportUninitializedInstanceVariable": false,
+  "reportCallInDefaultInitializer": false
+}
